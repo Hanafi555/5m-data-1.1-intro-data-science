@@ -28,7 +28,6 @@ def sum_of_squares(numbers):
         total += num ** 2
     return total
 
-# Example usage:
 print(sum_of_squares([1, 2, 3]))  # Output: 14
 print(sum_of_squares([2, 4, 6]))  # Output: 56
 
@@ -48,8 +47,6 @@ def count_vowels(string):
 print(count_vowels("hello"))  # Output: 2
 print(count_vowels("aeiou"))  # Output: 5
 print(count_vowels("crypt"))  # Output: 0
-
-
 
 # Question 4
 
